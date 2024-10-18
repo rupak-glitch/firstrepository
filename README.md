@@ -1,2 +1,3 @@
 # firstrepository
-auther rupak singh
+auther rupak singh rajput
+
